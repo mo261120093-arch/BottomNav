@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/bthom"
+        android:title="البييت"
+        android:icon="@drawable/outline_add_home_24"/>
+
+    <item
+        android:id="@+id/btfav"
+        android:title="المفضله"
+        android:icon="@drawable/outline_beenhere_24"/>
+    <item
+        android:id="@+id/btstteing"
+        android:title="الاعدادات"
+        android:icon="@drawable/outline_admin_panel_settings_24"/>
+    <item
+        android:id="@+id/forText"
+        android:title="رساله"
+        android:icon="@drawable/outline_check_circle_24"/>
+
+</menu>
